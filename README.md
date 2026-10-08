@@ -1,5 +1,5 @@
 # Shuffle PDF
-### website link - https://shuffle-pdf.netlify.app/
+### Website Link - https://shuffle-pdf.netlify.app/
 
 A free, privacy-friendly PDF merger and page arranger that runs entirely in the browser. No uploads, no server, no sign-up.
 
