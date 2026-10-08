@@ -67,4 +67,4 @@ Files are processed locally in the browser and are never sent to a server. If yo
 
 ## License
 
-MIT. Add a `LICENSE` file before publishing.
+MIT.
